@@ -1,0 +1,3 @@
+# Optional dependencies for extracting 512-D ResNet-18 poster embeddings.
+torch>=2.1
+torchvision>=0.16
